@@ -1,0 +1,49 @@
+
+
+#p { font-size: 400px
+
+
+}
+
+
+.row-a{
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+}
+
+.card-a > img {
+    width: 150px;
+    height: 250px;
+    margin: 18px 60px;
+}
+
+.row-b{
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+}
+
+.card-b > img {
+    width: 150px;
+    height: 250px;
+    margin: 18px 60px;
+}
+
+
+.card-d {
+    display: flex;
+}
+
+
+.block-a{
+    margin: 3px 3px 3px 350px;
+    font-size: 24px;
+}
+
+.block-b{
+    margin: 3px 300px 3px 150px;
+    font-size: 24px;
+
+}
+
